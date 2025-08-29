@@ -1,4 +1,4 @@
-#week 1 
+# week 1
 a simple calculator using python
 
 # Week Two - List Operations in Python
@@ -33,6 +33,19 @@ This Python program:
 - Reads a file entered by the user.  
 - Converts its content to uppercase.  
 - Saves the result in a new file named `modified_<filename>`.  
-- Handles errors if the file is missing or unreadable.  
+- Handles errors if the file is missing or unreadable.
+
+ # Week 5 - Object-Oriented Programming Activities
+Activity 1: Classes and Objects
+
+Created a Car class with attributes and methods.
+
+Showed how to create objects (instances) and access their properties.
+
+Activity 2: Polymorphism Challenge 🎭
+
+Implemented different classes (Car, Plane, etc.) with the same method move().
+
+Each class defines move() differently (e.g., Car → "Driving", Plane → "Flying").
 
 
